@@ -1,4 +1,5 @@
 broker-service/brokerApp
 authentication-service/authApp
+logger-service/loggerApp
 .DS_Store
 project/db-data/*
